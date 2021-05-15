@@ -12,4 +12,4 @@ PROGRAMMING TASKS
 
 SHORT ANSWERS
     [ ] Comment below what the difference between TestNG and the main method is
-        // ANSWER HERE:
+        // ANSWER HERE: Main method is not required in TestNG class for execution of methods.
